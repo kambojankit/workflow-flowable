@@ -1,0 +1,8 @@
+com/techarha/poc/flowable/service/PublishArticleService.class
+com/techarha/poc/flowable/pojo/Approval.class
+com/techarha/poc/flowable/configuration/SwaggerConfiguration.class
+com/techarha/poc/flowable/controller/ArticleWorkflowController.class
+com/techarha/poc/flowable/service/SendMailService.class
+com/techarha/poc/flowable/service/ArticleWorkflowService.class
+com/techarha/poc/flowable/pojo/Article.class
+com/techarha/poc/flowable/Application.class

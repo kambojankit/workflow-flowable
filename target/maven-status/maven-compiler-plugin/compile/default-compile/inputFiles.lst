@@ -1,0 +1,8 @@
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/pojo/Article.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/configuration/SwaggerConfiguration.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/service/ArticleWorkflowService.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/controller/ArticleWorkflowController.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/Application.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/service/PublishArticleService.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/pojo/Approval.java
+/Users/ankit/Develop/poc/workflow-flowable/src/main/java/com/techarha/poc/flowable/service/SendMailService.java
